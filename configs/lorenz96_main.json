@@ -1,0 +1,83 @@
+{
+  "name": "lorenz96_main",
+  "system": {
+    "type": "lorenz96",
+    "dt": 0.04,
+    "burn_in": 1000,
+    "state_dim": 20,
+    "forcing": 8.0,
+    "sigma_proc": 0.1,
+    "sigma_proc_space": "standardized",
+    "sigma_obs": 0.1,
+    "T_train": 80000,
+    "T_test": 20000
+  },
+  "model": {
+    "latent_dim": 100,
+    "observed_dim": 20,
+    "gated_dim": 50,
+    "teacher_forcing_interval": 20
+  },
+  "training": {
+    "sequence_length": 50,
+    "batch_size": 16,
+    "batches_per_epoch": 50,
+    "epochs": 2000,
+    "optimizer": "RAdam",
+    "lr_start": 1e-3,
+    "lr_end": 1e-5
+  },
+  "seed_sweep": {
+    "count": 20,
+    "start_seed": 0,
+    "data_seed": 0
+  },
+  "dataset": {
+    "path": "src/data/lorenz96_d20/dataset.npz",
+    "info_path": "src/data/lorenz96_d20/data_info.json"
+  },
+  "probabilistic_training": {
+    "optimizer": "Adam",
+    "lr": 5e-3,
+    "weight_decay": 0.0,
+    "gradient_clip": 2.0,
+    "iterations": 150,
+    "scheduler": "cosine",
+    "eta_min": 1e-5,
+    "trace_every": 1,
+    "window_total_steps": 40,
+    "covariance_burn_in_steps": 8,
+    "scored_steps": 32,
+    "tfresid_obs_var_frac": 0.9,
+    "tfresid_proc_var_frac": 0.1,
+    "selector_burn": 500,
+    "selector_roll": 10000
+  },
+  "evaluation": {
+    "main_forecast_horizon_steps": 4,
+    "predictive_forecast_starts": 10,
+    "predictive_nll_starts": 100,
+    "predictive_forecast_ensemble": 200,
+    "predictive_obs_floor": 0.001,
+    "core_start_index": 500,
+    "stochastic_start_index": 500,
+    "state_space_burn_steps": 1000,
+    "state_space_rollout_steps": 50000,
+    "state_space_sigma2": 1.0,
+    "state_space_mc_samples": 1000,
+    "state_space_density_batch_size": 512,
+    "lyapunov_burn_steps": 1000,
+    "lyapunov_rollout_steps": 30000,
+    "pse_smoothing": 20,
+    "gtan_window_start": 200,
+    "gtan_warmup_steps": 200,
+    "gtan_window_steps": 4000,
+    "reference_path": "src/data/lorenz96_d20/eval_references.npz",
+    "heldout_test_path": "src/data/lorenz96_d20/heldout_test.npz",
+    "heldout_test_info_path": "src/data/lorenz96_d20/heldout_test.json",
+    "stochastic_evaluation_path": "src/data/lorenz96_d20/stochastic_evaluation.npz",
+    "stochastic_evaluation_info_path": "src/data/lorenz96_d20/stochastic_evaluation.json",
+    "spectrum_horizons_steps": [2, 4, 9, 15],
+    "spectrum_horizons_tau_lambda": [0.13, 0.27, 0.6, 1.0]
+  }
+}

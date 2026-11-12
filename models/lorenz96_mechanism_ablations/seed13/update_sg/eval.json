@@ -1,0 +1,23 @@
+{
+  "seed": 13,
+  "method_key": "update_sg",
+  "method_label": "Update-SG",
+  "D_stsp_core": 2.2419833590363267,
+  "D_H_core": 0.46930131608060666,
+  "signed_LE_error_core": -0.7766953043258844,
+  "abs_signed_LE_error_core": 0.7766953043258844,
+  "h_lambda_core": 1.5098174583519595,
+  "signed_h_lambda_error_core": -3.358215616788066,
+  "abs_signed_h_lambda_error_core": 3.358215616788066,
+  "D_stsp_stoch": 0.9993015776904715,
+  "signed_LE_error_stoch": -0.9425488269085385,
+  "abs_signed_LE_error_stoch": 0.9425488269085385,
+  "h_lambda_stoch": 1.230815829969268,
+  "signed_h_lambda_error_stoch": -3.8892226371163705,
+  "abs_signed_h_lambda_error_stoch": 3.8892226371163705,
+  "G_tan": 0.778735064230916,
+  "G_tan_transport": 0.19036571316726808,
+  "G_tan_n_samples": 80000,
+  "NLL": 1.6609435354628856,
+  "CRPS": 0.6563344172736827
+}

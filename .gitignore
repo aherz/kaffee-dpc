@@ -1,0 +1,72 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cursor/
+build/
+dist/
+.eggs/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Generated research outputs and downloaded assets.
+artifacts/
+docs/
+*.md
+src/data/local/
+scratch/
+tmp/
+reproduction_manifest.json
+.venv
+
+# Official paper freeze: track frozen tables/ only.
+# Shells, logs, checkpoints, and in-progress trees stay local. Private runs
+# write under scratch/ (already ignored). After an experiment freezes, add a
+# tables/ exception for that tree.
+results/*
+!results/lorenz96_main/
+results/lorenz96_main/*
+!results/lorenz96_main/tables/
+!results/lorenz96_main/tables/**
+!results/lorenz63_main/
+results/lorenz63_main/*
+!results/lorenz63_main/tables/
+!results/lorenz63_main/tables/**
+!results/dynamix_main/
+results/dynamix_main/*
+!results/dynamix_main/tables/
+!results/dynamix_main/tables/**
+!results/lorenz96_rrkf/
+results/lorenz96_rrkf/*
+!results/lorenz96_rrkf/tables/
+!results/lorenz96_rrkf/tables/**
+!results/lorenz96_rrkf_timing/
+results/lorenz96_rrkf_timing/*
+!results/lorenz96_rrkf_timing/tables/
+!results/lorenz96_rrkf_timing/tables/**
+!results/lorenz96_mechanism_ablations/
+results/lorenz96_mechanism_ablations/*
+!results/lorenz96_mechanism_ablations/tables/
+!results/lorenz96_mechanism_ablations/tables/**
+!results/eeg_main/
+results/eeg_main/*
+!results/eeg_main/tables/
+!results/eeg_main/tables/**
+
+# Local review context; retained in the worktree, not in the release artifact.
+overleaf_source_paper/
+overleaf_source_paper_new/
+rebuttal.md
+
+# Release README is versioned even though other Markdown files are ignored.
+!README.md
+
+# Internal test files.
+tests/
+

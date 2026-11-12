@@ -1,0 +1,68 @@
+{
+  "name": "dynamix_main",
+  "systems": [
+    "aizawa",
+    "burke_shaw",
+    "chen",
+    "chua",
+    "dadras",
+    "genesio_tesi",
+    "hadley",
+    "halvorsen",
+    "lorenz63",
+    "nose_hoover",
+    "qi_chen",
+    "rabinovich_fabrikant",
+    "sprott_b"
+  ],
+  "data_noise": {
+    "observation_std_standardized": 0.1
+  },
+  "seed_sweep": {
+    "count": 20,
+    "start_seed": 1
+  },
+  "checkpoint": {
+    "base_model_path": "models/dynamix_base/dynamix-3d-alrnn-v1.0.safetensors"
+  },
+  "adaptation": {
+    "context_length": 2000,
+    "iterations": 50,
+    "covariance_burn_in_steps": 8,
+    "lr": 5e-5,
+    "optimizer": "Adam",
+    "gradient_clip": 1.0,
+    "batch_size": 16,
+    "lyapunov_time_window_k": 1.0,
+    "scored_window_min": 24,
+    "scored_window_max": 128
+  },
+  "adaptation_schedules": {
+    "dynamix_base": {
+      "train_total_t": 0
+    },
+    "frozen_core_shell": {
+      "train_total_t": 25000
+    },
+    "open_loop_no_propagation": {
+      "train_total_t": 25000
+    },
+    "open_loop_tied": {
+      "train_total_t": 25000
+    },
+    "filtered_no_propagation": {
+      "train_total_t": 25000
+    },
+    "kaffee_dynamix": {
+      "train_total_t": 25000
+    }
+  },
+  "evaluation": {
+    "nll_horizon_tau_lambda": 0.25,
+    "nll_n_starts": 100,
+    "rmse_forecast_horizon_steps": 10,
+    "qoi_rollout_steps": 55000,
+    "qoi_burn_in_steps": 1000,
+    "qoi_eval_steps": 50000
+  }
+}

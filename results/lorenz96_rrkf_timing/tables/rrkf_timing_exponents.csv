@@ -1,0 +1,5 @@
+method,quantity,n_fit,M_min,M_max,exponent
+kaffee,time,4,8000.0,16000.0,2.8453927496521128
+kaffee,memory,4,8000.0,16000.0,1.9951593971681383
+kaffee_rrkf,time,4,32000.0,56000.0,1.8880403510833956
+kaffee_rrkf,memory,4,32000.0,56000.0,1.9916205660096598

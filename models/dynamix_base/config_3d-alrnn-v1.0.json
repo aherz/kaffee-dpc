@@ -1,0 +1,13 @@
+{
+  "model_type": "dynamix",
+  "model_name": "dynamix-3d-alrnn-v1.0",
+  "architecture": {
+    "M": 30,
+    "N": 3,
+    "Experts": 10,
+    "P": 2,
+    "hidden_dim": 50,
+    "expert_type": "almost_linear_rnn",
+    "probabilistic_expert": false
+  }
+}

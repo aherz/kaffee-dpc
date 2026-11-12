@@ -1,0 +1,14 @@
+{
+  "seed": 9,
+  "baseline_key": "open_loop_tied",
+  "baseline_label": "Open-loop Gaussian NLL (tied)",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 0.9931814881239331,
+  "selected_iteration": 115,
+  "timing": {
+    "wall_seconds": 115.92481347499415,
+    "cuda_peak_allocated_bytes": 175965184,
+    "cuda_peak_reserved_bytes": 262144000
+  },
+  "smoke": false
+}

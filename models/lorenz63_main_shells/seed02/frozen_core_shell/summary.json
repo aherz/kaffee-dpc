@@ -1,0 +1,9 @@
+{
+  "seed": 2,
+  "baseline_key": "frozen_core_shell",
+  "baseline_label": "Frozen-core shell EKF innovation NLL",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.192960186232231,
+  "selected_iteration": 140,
+  "smoke": false
+}

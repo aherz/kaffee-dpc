@@ -1,0 +1,46 @@
+{
+  "batch_size": 1,
+  "window_steps": 10,
+  "filter_rank": 20,
+  "observed_dim": 20,
+  "dtype": "float32",
+  "device": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "n_complete_cells": 51,
+  "dense_last_complete_M": 16000,
+  "rrkf_last_complete_M": 56000,
+  "slope_dimensions": 4,
+  "exponents": [
+    {
+      "method": "kaffee",
+      "quantity": "time",
+      "n_fit": 4,
+      "M_min": 8000.0,
+      "M_max": 16000.0,
+      "exponent": 2.8453927496521128
+    },
+    {
+      "method": "kaffee",
+      "quantity": "memory",
+      "n_fit": 4,
+      "M_min": 8000.0,
+      "M_max": 16000.0,
+      "exponent": 1.9951593971681383
+    },
+    {
+      "method": "kaffee_rrkf",
+      "quantity": "time",
+      "n_fit": 4,
+      "M_min": 32000.0,
+      "M_max": 56000.0,
+      "exponent": 1.8880403510833956
+    },
+    {
+      "method": "kaffee_rrkf",
+      "quantity": "memory",
+      "n_fit": 4,
+      "M_min": 32000.0,
+      "M_max": 56000.0,
+      "exponent": 1.9916205660096598
+    }
+  ]
+}

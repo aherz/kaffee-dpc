@@ -1,0 +1,19 @@
+{
+  "ranks": [
+    5,
+    10,
+    20,
+    40,
+    80
+  ],
+  "required_seeds": 20,
+  "shells": "models/lorenz96_rrkf_shells",
+  "n_kaffee_rows": 100,
+  "seeds_by_rank": {
+    "5": 20,
+    "10": 20,
+    "20": 20,
+    "40": 20,
+    "80": 20
+  }
+}

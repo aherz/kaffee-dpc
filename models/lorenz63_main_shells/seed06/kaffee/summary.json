@@ -1,0 +1,9 @@
+{
+  "seed": 6,
+  "baseline_key": "kaffee",
+  "baseline_label": "KAFFEE",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.057020797001593,
+  "selected_iteration": 145,
+  "smoke": false
+}

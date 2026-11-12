@@ -1,0 +1,8 @@
+{
+  "model_name": "dynamix-3d-alrnn-v1.0",
+  "checkpoint_file": "dynamix-3d-alrnn-v1.0.safetensors",
+  "config_file": "config_3d-alrnn-v1.0.json",
+  "source": "https://huggingface.co/DurstewitzLab/dynamix",
+  "upstream_pip": "https://github.com/DurstewitzLab/DynaMix-python",
+  "loader": "models.dynamix.load_dynamix_base"
+}

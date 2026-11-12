@@ -1,0 +1,32 @@
+{
+  "seed": 13,
+  "baseline_key": "gtf_alpha_0",
+  "baseline_label": "GTF-alpha (K=alpha B^T, alpha=0)",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.0220009455661967,
+  "selected_iteration": 124,
+  "timing": {
+    "wall_seconds": 227.35450403997675,
+    "cuda_peak_allocated_bytes": 182398976,
+    "cuda_peak_reserved_bytes": 205520896
+  },
+  "train_config": {
+    "optimizer": "Adam",
+    "lr": 0.005,
+    "iterations": 150,
+    "weight_decay": 0.0,
+    "scheduler": "cosine",
+    "eta_min": 1e-05,
+    "gradient_clip": 2.0,
+    "shell_init_policy": "tf_residual_90_10",
+    "trace_every": 1,
+    "checkpoint_policy": "D_stsp_stoch",
+    "selector_burn": 500,
+    "selector_roll": 10000,
+    "gtf_alpha": 0.0,
+    "use_update_sg": false,
+    "relu_jacobian": "hard",
+    "protocol": "lorenz96_main Table 1 (Adam 0.005, 150 cosine)"
+  },
+  "smoke": false
+}

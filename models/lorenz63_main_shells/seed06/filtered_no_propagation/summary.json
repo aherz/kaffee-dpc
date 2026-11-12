@@ -1,0 +1,9 @@
+{
+  "seed": 6,
+  "baseline_key": "filtered_no_propagation",
+  "baseline_label": "Filtered innovation NLL, no covariance propagation",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.1152529681781609,
+  "selected_iteration": 100,
+  "smoke": false
+}

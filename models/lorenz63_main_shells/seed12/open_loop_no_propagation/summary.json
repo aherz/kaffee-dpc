@@ -1,0 +1,9 @@
+{
+  "seed": 12,
+  "baseline_key": "open_loop_no_propagation",
+  "baseline_label": "Open-loop Gaussian NLL (no propagation)",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 7.93752573947595,
+  "selected_iteration": 115,
+  "smoke": false
+}

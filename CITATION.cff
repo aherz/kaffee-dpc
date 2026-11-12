@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper below."
+type: software
+title: "Code for the DPC gap paper and KAFFEE"
+authors:
+  - family-names: Herz
+    given-names: Andre
+  - family-names: Pals
+    given-names: Matthijs
+  - family-names: Durstewitz
+    given-names: Daniel
+  - family-names: Koppe
+    given-names: Georgia
+
+preferred-citation:
+  type: conference-paper
+  title: "The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling"
+  authors:
+    - family-names: Herz
+      given-names: Andre
+    - family-names: Pals
+      given-names: Matthijs
+    - family-names: Durstewitz
+      given-names: Daniel
+    - family-names: Koppe
+      given-names: Georgia
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026
+  url: "https://arxiv.org/abs/2605.31547"

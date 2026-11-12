@@ -1,0 +1,19 @@
+{
+  "methods": [
+    "update_sg",
+    "gtf_alpha_0",
+    "gtf_alpha_0.1",
+    "gtf_alpha_0.25",
+    "gtf_alpha_0.5",
+    "gtf_alpha_1"
+  ],
+  "n": {
+    "update_sg": 20,
+    "gtf_alpha_0": 20,
+    "gtf_alpha_0.1": 20,
+    "gtf_alpha_0.25": 20,
+    "gtf_alpha_0.5": 20,
+    "gtf_alpha_1": 20
+  },
+  "eval_root": "models/lorenz96_mechanism_ablations"
+}

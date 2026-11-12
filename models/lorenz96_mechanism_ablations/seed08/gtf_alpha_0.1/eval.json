@@ -1,0 +1,23 @@
+{
+  "seed": 8,
+  "method_key": "gtf_alpha_0.1",
+  "method_label": "GTF-alpha 0.1",
+  "D_stsp_core": 3.7482182093884777,
+  "D_H_core": 0.8461494937048396,
+  "signed_LE_error_core": -1.5411994838043552,
+  "abs_signed_LE_error_core": 1.5411994838043552,
+  "h_lambda_core": 0.0,
+  "signed_h_lambda_error_core": -4.868033075140025,
+  "abs_signed_h_lambda_error_core": 4.868033075140025,
+  "D_stsp_stoch": 0.34382771534539114,
+  "signed_LE_error_stoch": -0.8514963996856624,
+  "abs_signed_LE_error_stoch": 0.8514963996856624,
+  "h_lambda_stoch": 1.7074343223351802,
+  "signed_h_lambda_error_stoch": -3.4126041447504587,
+  "abs_signed_h_lambda_error_stoch": 3.4126041447504587,
+  "G_tan": 0.8642809095986285,
+  "G_tan_transport": 0.4722121361705409,
+  "G_tan_n_samples": 80000,
+  "NLL": 1.4674219448005903,
+  "CRPS": 0.5927794797359583
+}

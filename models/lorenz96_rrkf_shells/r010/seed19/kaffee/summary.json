@@ -1,0 +1,16 @@
+{
+  "seed": 19,
+  "baseline_key": "kaffee",
+  "baseline_label": "KAFFEE",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.3789257266122945,
+  "selected_iteration": 136,
+  "filter": "rrkf",
+  "filter_rank": 10,
+  "timing": {
+    "wall_seconds": 24732.18147214502,
+    "cuda_peak_allocated_bytes": 129427456,
+    "cuda_peak_reserved_bytes": 146800640
+  },
+  "smoke": false
+}

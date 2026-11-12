@@ -1,0 +1,13 @@
+{
+  "seed": 13,
+  "epochs": 5000,
+  "batches_per_epoch": 50,
+  "selected_epoch": 5000,
+  "selected_training_d_stsp": 3.1475915051563206,
+  "candidates": [
+    {
+      "epoch": 5000,
+      "training_reference_d_stsp": 3.1475915051563206
+    }
+  ]
+}

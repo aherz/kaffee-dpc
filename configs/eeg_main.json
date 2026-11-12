@@ -1,0 +1,73 @@
+{
+  "subjects": ["S001", "S002", "S003", "S004", "S005"],
+  "seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+  "methods": [
+    "frozen_core_shell",
+    "open_loop_no_propagation",
+    "open_loop_tied",
+    "filtered_no_propagation",
+    "kaffee"
+  ],
+  "data": {
+    "sampling_rate_hz": 160.0,
+    "samples": 9640,
+    "observed_dim": 64
+  },
+  "model": {
+    "latent_dim": 16,
+    "hidden_dim": 512,
+    "observed_dim": 64
+  },
+  "core_training": {
+    "gtf_alpha": 0.1,
+    "sequence_length": 50,
+    "batch_size": 16,
+    "batches_per_epoch": 50,
+    "epochs": 5000,
+    "lr_start": 1e-3,
+    "lr_end": 1e-6,
+    "latent_regularization": 1e-4,
+    "observation_regularization": 1e-6,
+    "checkpoint_every_epochs": 5000,
+    "selector": {
+      "score_steps": 2048,
+      "initial_states": 4,
+      "burn_fraction": 0.25,
+      "sigma2": 1.0,
+      "mc_samples": 512,
+      "metric_seed_base": 70000
+    }
+  },
+  "shell_training": {
+    "iterations": 900,
+    "schedule_total_iterations": 1500,
+    "batch_size": 32,
+    "core_lr": 1e-3,
+    "noise_lr": 1e-3,
+    "minimum_lr_factor": 2e-3,
+    "weight_decay": 0.0,
+    "gradient_clip": 2.0,
+    "innovation_jitter": 1e-4,
+    "window_total_steps": 40,
+    "covariance_burn_in_steps": 8,
+    "scored_steps": 32,
+    "initial_observation_variance_fraction": 0.9,
+    "initial_process_variance_fraction": 0.1,
+    "checkpoint_every_iterations": 25,
+    "selector": {
+      "rollout_steps": 9640,
+      "burn_fraction": 0.25,
+      "sigma2": 1.0,
+      "mc_samples": 1000,
+      "rollout_seed_base": 50000,
+      "metric_seed_base": 60000
+    }
+  },
+  "evaluation": {
+    "filter_history_steps": 14,
+    "nll_horizon_steps": 1,
+    "innovation_jitter": 1e-4,
+    "rollout_burn_steps": 2410,
+    "rollout_score_steps": 9640
+  }
+}

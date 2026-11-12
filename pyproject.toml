@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaffee-dpc"
+version = "0.1.0"
+description = "Reproduction code for KAFFEE and the DPC gap experiments."
+readme = "README.md"
+license = { text = "GPL-3.0-only" }
+requires-python = ">=3.11"
+dependencies = [
+	"dynamix @ git+https://github.com/DurstewitzLab/DynaMix-python.git@39cc55514a4c5a0c50534c092fd9c3d40abdabc8",
+	"matplotlib>=3.8",
+	"numpy>=2.1.0,<2.2",
+	"pandas>=2.2",
+	"safetensors>=0.7",
+	"scipy>=1.17",
+	"torch>=2.12",
+	"tqdm>=4.66",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

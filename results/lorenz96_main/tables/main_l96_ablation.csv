@@ -1,0 +1,7 @@
+Model / Objective,NLL,CRPS,G_tan,D_stsp_stoch,|Delta h_lambda^stoch|,D_stsp_core,|Delta h_lambda^core|,D_H^core
+AL-RNN (no shell),,,,,,0.707941,2.76555,0.33815
+KAFFEE,1.38789,0.551245,0.5281161218787838,0.369245,0.710475,0.291082,0.810513,0.130095
+Frozen-core shell EKF innovation NLL,1.42816,0.544974,0.2834253955685743,0.354847,1.98167,0.707941,2.76555,0.33815
+"Filtered innovation NLL, no covariance propagation",1.43654,0.568701,0.0,0.491542,0.420728,0.309988,0.39543,0.127715
+Open-loop Gaussian NLL (tied),1.89784,0.95556,0.3216799881509187,0.684544,5.12004,2.64466,4.86802,0.845147
+Open-loop Gaussian NLL (no propagation),2.1536,1.52725,0,1.14717,5.12004,2.64738,4.86779,0.834191

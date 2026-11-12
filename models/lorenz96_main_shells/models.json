@@ -1,0 +1,18 @@
+{
+  "checkpoint": "alrnn_shell.pt",
+  "layout": "seed{seed:02d}/{baseline}/",
+  "seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+  "baselines": [
+    "kaffee",
+    "frozen_core_shell",
+    "filtered_no_propagation",
+    "open_loop_tied",
+    "open_loop_no_propagation"
+  ],
+  "training": {
+    "optimizer": "Adam",
+    "lr": 0.005,
+    "gradient_clip": 2.0,
+    "iterations": 150
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "system": "lorenz63",
+  "path": "src/data/lorenz63/dataset.npz",
+  "dt": 0.01,
+  "sigma_proc": 0.1,
+  "sigma_proc_space": "standardized",
+  "sigma_obs": 0.1,
+  "sigma_obs_space": "standardized",
+  "state_dim": 3,
+  "T_train": 80000,
+  "T_test": 20000,
+  "mean": [
+    0.3760855793952942,
+    0.3735463619232178,
+    23.68288230895996
+  ],
+  "std": [
+    7.941372871398926,
+    8.990785598754883,
+    8.481863975524902
+  ]
+}

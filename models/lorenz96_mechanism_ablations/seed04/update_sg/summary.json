@@ -1,0 +1,32 @@
+{
+  "seed": 4,
+  "baseline_key": "update_sg",
+  "baseline_label": "Update-SG (assimilation-correction stop-gradient)",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.2585431435434988,
+  "selected_iteration": 1,
+  "timing": {
+    "wall_seconds": 150.2770424829796,
+    "cuda_peak_allocated_bytes": 179771904,
+    "cuda_peak_reserved_bytes": 207618048
+  },
+  "train_config": {
+    "optimizer": "Adam",
+    "lr": 0.005,
+    "iterations": 150,
+    "weight_decay": 0.0,
+    "scheduler": "cosine",
+    "eta_min": 1e-05,
+    "gradient_clip": 2.0,
+    "shell_init_policy": "tf_residual_90_10",
+    "trace_every": 1,
+    "checkpoint_policy": "D_stsp_stoch",
+    "selector_burn": 500,
+    "selector_roll": 10000,
+    "gtf_alpha": null,
+    "use_update_sg": true,
+    "relu_jacobian": "hard",
+    "protocol": "lorenz96_main Table 1 (Adam 0.005, 150 cosine)"
+  },
+  "smoke": false
+}

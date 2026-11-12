@@ -1,0 +1,7 @@
+The five standardized recordings in this directory are derived from:
+Gerwin Schalk (2009). EEG Motor Movement/Imagery Dataset, version 1.0.0.
+PhysioNet. https://doi.org/10.13026/C28G6P
+
+The source database is made available under the Open Data Commons
+Attribution License v1.0 (ODC-By).
+https://physionet.org/content/eegmmidb/view-license/1.0.0/

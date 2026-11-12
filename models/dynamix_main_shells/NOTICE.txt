@@ -1,0 +1,6 @@
+These checkpoints are probabilistic adaptations of the DynaMix base weights
+by Christoph Jürgen Hemmer and Daniel Durstewitz. We fitted stochastic shells
+and, where specified by the baseline, updated the dynamical core.
+Source of the base weights: https://huggingface.co/DurstewitzLab/dynamix
+License of the base weights: Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/

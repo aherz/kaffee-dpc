@@ -1,0 +1,23 @@
+{
+  "name": "lorenz96_rrkf_timing",
+  "latent_dims": [
+    25, 50, 75, 100, 150, 200, 300, 400, 600, 800,
+    1200, 1600, 2000, 2400, 3200, 4000, 4800, 6400,
+    8000, 10000, 12000, 16000, 20000, 24000, 28000,
+    32000, 40000, 48000, 56000, 64000, 72000, 80000
+  ],
+  "observed_dim": 20,
+  "gated_fraction": 0.5,
+  "batch_size": 1,
+  "window_steps": 10,
+  "filter_rank": 20,
+  "methods": ["kaffee", "kaffee_rrkf"],
+  "warmups": 20,
+  "timed_updates": 20,
+  "process_repeats": 5,
+  "burn_in_steps": 2,
+  "learning_rate": 5e-3,
+  "gradient_clip": 2.0,
+  "proc_std": 2e-2,
+  "obs_std": 0.1
+}

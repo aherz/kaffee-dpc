@@ -1,0 +1,14 @@
+{
+  "seed": 6,
+  "baseline_key": "filtered_no_propagation",
+  "baseline_label": "Filtered innovation NLL, no covariance propagation",
+  "selection_metric": "D_stsp_stoch",
+  "selection_value": 1.0058678378407189,
+  "selected_iteration": 136,
+  "timing": {
+    "wall_seconds": 115.99196864594705,
+    "cuda_peak_allocated_bytes": 136075264,
+    "cuda_peak_reserved_bytes": 262144000
+  },
+  "smoke": false
+}

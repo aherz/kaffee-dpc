@@ -1,0 +1,26 @@
+{
+  "subject": "S003",
+  "seed": 17,
+  "method": "kaffee",
+  "NLL": 0.08928509128998977,
+  "CRPS": 0.18841998317651362,
+  "scoring_update": "kalman",
+  "nll_horizon_steps": 1,
+  "rollout_burn_steps": 2410,
+  "rollout_score_steps": 9640,
+  "D_stsp_stoch_repeats": [
+    1.5834518305040843,
+    1.636106468591442,
+    1.71992808538365,
+    1.7477703217509901
+  ],
+  "D_H_stoch_repeats": [
+    0.19409343669702656,
+    0.14750396283478137,
+    0.15642804993441284,
+    0.16471195045527892
+  ],
+  "D_stsp_core": 7.888309641222586,
+  "D_H_core": 0.315884673302659,
+  "core_rollout_device": "cuda:0"
+}

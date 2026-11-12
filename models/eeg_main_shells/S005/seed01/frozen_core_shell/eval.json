@@ -1,0 +1,26 @@
+{
+  "subject": "S005",
+  "seed": 1,
+  "method": "frozen_core_shell",
+  "NLL": 0.2123448370412275,
+  "CRPS": 0.1975195789080234,
+  "scoring_update": "kalman",
+  "nll_horizon_steps": 1,
+  "rollout_burn_steps": 2410,
+  "rollout_score_steps": 9640,
+  "D_stsp_stoch_repeats": [
+    2.23889665279964,
+    2.2971857692377995,
+    2.2154736967098727,
+    2.2668702664227367
+  ],
+  "D_H_stoch_repeats": [
+    0.17133644689932176,
+    0.17466471398287414,
+    0.16773832767694835,
+    0.16515128039262006
+  ],
+  "D_stsp_core": 2.379470671197923,
+  "D_H_core": 0.2561462128652041,
+  "core_rollout_device": "cuda:0"
+}

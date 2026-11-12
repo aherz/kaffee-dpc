@@ -1,0 +1,7 @@
+{
+  "device": "cuda:0",
+  "D_H": 0.19623630871278153,
+  "D_stsp": 5.679165809260308,
+  "compared_steps": 9640,
+  "discarded_steps": 2410
+}

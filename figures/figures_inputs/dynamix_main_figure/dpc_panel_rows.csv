@@ -1,0 +1,772 @@
+method_key,method,system,seed,nll,relD
+frozen_core_shell,Frozen-core,aizawa,1,0.3670678734779358,1.0
+frozen_core_shell,Frozen-core,aizawa,10,0.37836095690727234,1.0
+frozen_core_shell,Frozen-core,aizawa,11,0.3002176582813263,1.0
+frozen_core_shell,Frozen-core,aizawa,12,0.3931715786457062,1.0
+frozen_core_shell,Frozen-core,aizawa,13,0.46768301725387573,1.0
+frozen_core_shell,Frozen-core,aizawa,14,0.34315556287765503,1.0
+frozen_core_shell,Frozen-core,aizawa,15,0.43558040261268616,1.0
+frozen_core_shell,Frozen-core,aizawa,16,0.38329312205314636,1.0
+frozen_core_shell,Frozen-core,aizawa,17,0.436662495136261,1.0
+frozen_core_shell,Frozen-core,aizawa,18,0.5844264626502991,1.0
+frozen_core_shell,Frozen-core,aizawa,19,0.4114498198032379,1.0
+frozen_core_shell,Frozen-core,aizawa,2,0.7324537038803101,1.0
+frozen_core_shell,Frozen-core,aizawa,20,0.34428974986076355,1.0
+frozen_core_shell,Frozen-core,aizawa,3,0.29849672317504883,1.0
+frozen_core_shell,Frozen-core,aizawa,4,0.36396461725234985,1.0
+frozen_core_shell,Frozen-core,aizawa,5,0.4265276789665222,1.0
+frozen_core_shell,Frozen-core,aizawa,6,0.5082600712776184,1.0
+frozen_core_shell,Frozen-core,aizawa,7,0.44012051820755005,1.0
+frozen_core_shell,Frozen-core,aizawa,8,0.4263249337673187,1.0
+frozen_core_shell,Frozen-core,aizawa,9,0.4673323631286621,1.0
+frozen_core_shell,Frozen-core,burke_shaw,1,0.27500855922698975,1.0
+frozen_core_shell,Frozen-core,burke_shaw,10,-0.006387489382177591,1.0
+frozen_core_shell,Frozen-core,burke_shaw,11,0.443926066160202,1.0
+frozen_core_shell,Frozen-core,burke_shaw,12,0.0744670033454895,1.0
+frozen_core_shell,Frozen-core,burke_shaw,13,0.34515005350112915,1.0
+frozen_core_shell,Frozen-core,burke_shaw,14,0.989052414894104,1.0
+frozen_core_shell,Frozen-core,burke_shaw,15,0.7257999181747437,1.0
+frozen_core_shell,Frozen-core,burke_shaw,16,0.1514236032962799,1.0
+frozen_core_shell,Frozen-core,burke_shaw,17,0.15946297347545624,1.0
+frozen_core_shell,Frozen-core,burke_shaw,18,0.14103670418262482,1.0
+frozen_core_shell,Frozen-core,burke_shaw,19,0.9698539972305298,1.0
+frozen_core_shell,Frozen-core,burke_shaw,2,0.010362179949879646,1.0
+frozen_core_shell,Frozen-core,burke_shaw,20,0.25393471121788025,1.0
+frozen_core_shell,Frozen-core,burke_shaw,3,0.2632730007171631,1.0
+frozen_core_shell,Frozen-core,burke_shaw,4,0.003127479460090399,1.0
+frozen_core_shell,Frozen-core,burke_shaw,5,0.12379033118486404,1.0
+frozen_core_shell,Frozen-core,burke_shaw,6,0.05339894816279411,1.0
+frozen_core_shell,Frozen-core,burke_shaw,7,0.6021855473518372,1.0
+frozen_core_shell,Frozen-core,burke_shaw,8,-0.0034095633309334517,1.0
+frozen_core_shell,Frozen-core,burke_shaw,9,0.4843888580799103,1.0
+frozen_core_shell,Frozen-core,chen,1,0.3392641842365265,1.0
+frozen_core_shell,Frozen-core,chen,10,0.23527875542640686,1.0
+frozen_core_shell,Frozen-core,chen,11,0.4525202214717865,1.0
+frozen_core_shell,Frozen-core,chen,12,0.1566121131181717,1.0
+frozen_core_shell,Frozen-core,chen,13,0.23301710188388824,1.0
+frozen_core_shell,Frozen-core,chen,14,0.24282781779766083,1.0
+frozen_core_shell,Frozen-core,chen,15,0.3867683708667755,1.0
+frozen_core_shell,Frozen-core,chen,16,0.1313256174325943,1.0
+frozen_core_shell,Frozen-core,chen,17,0.8175094723701477,1.0
+frozen_core_shell,Frozen-core,chen,18,0.9766943454742432,1.0
+frozen_core_shell,Frozen-core,chen,19,0.11104726791381836,1.0
+frozen_core_shell,Frozen-core,chen,2,0.35599157214164734,1.0
+frozen_core_shell,Frozen-core,chen,20,0.5109243988990784,1.0
+frozen_core_shell,Frozen-core,chen,3,0.2965528964996338,1.0
+frozen_core_shell,Frozen-core,chen,4,0.09329751133918762,1.0
+frozen_core_shell,Frozen-core,chen,5,0.26625844836235046,1.0
+frozen_core_shell,Frozen-core,chen,6,0.14271900057792664,1.0
+frozen_core_shell,Frozen-core,chen,7,0.2855130732059479,1.0
+frozen_core_shell,Frozen-core,chen,8,0.17445646226406097,1.0
+frozen_core_shell,Frozen-core,chen,9,0.42673012614250183,1.0
+frozen_core_shell,Frozen-core,chua,1,-0.11470942199230194,1.0
+frozen_core_shell,Frozen-core,chua,10,-0.09309543669223785,1.0
+frozen_core_shell,Frozen-core,chua,11,-0.09558256715536118,1.0
+frozen_core_shell,Frozen-core,chua,12,-0.10487678647041321,1.0
+frozen_core_shell,Frozen-core,chua,13,0.05466431751847267,1.0
+frozen_core_shell,Frozen-core,chua,14,0.05469154193997383,1.0
+frozen_core_shell,Frozen-core,chua,15,-0.05523696169257164,1.0
+frozen_core_shell,Frozen-core,chua,16,-0.11789142340421677,1.0
+frozen_core_shell,Frozen-core,chua,17,0.00420913053676486,1.0
+frozen_core_shell,Frozen-core,chua,18,-0.1059773862361908,1.0
+frozen_core_shell,Frozen-core,chua,19,-0.02789841778576374,1.0
+frozen_core_shell,Frozen-core,chua,2,-0.11013906449079514,1.0
+frozen_core_shell,Frozen-core,chua,20,-0.016392827033996582,1.0
+frozen_core_shell,Frozen-core,chua,3,-0.048562925308942795,1.0
+frozen_core_shell,Frozen-core,chua,4,-0.10468869656324387,1.0
+frozen_core_shell,Frozen-core,chua,5,0.1806793361902237,1.0
+frozen_core_shell,Frozen-core,chua,6,-0.08122748136520386,1.0
+frozen_core_shell,Frozen-core,chua,7,-0.10600011795759201,1.0
+frozen_core_shell,Frozen-core,chua,8,-0.19551898539066315,1.0
+frozen_core_shell,Frozen-core,chua,9,0.014904678799211979,1.0
+frozen_core_shell,Frozen-core,dadras,10,0.6593283414840698,1.0
+frozen_core_shell,Frozen-core,dadras,11,0.7740557193756104,1.0
+frozen_core_shell,Frozen-core,dadras,13,0.24797289073467255,1.0
+frozen_core_shell,Frozen-core,dadras,14,0.8499991297721863,1.0
+frozen_core_shell,Frozen-core,dadras,15,0.2639424502849579,1.0
+frozen_core_shell,Frozen-core,dadras,16,0.07951182126998901,1.0
+frozen_core_shell,Frozen-core,dadras,18,0.8058366775512695,1.0
+frozen_core_shell,Frozen-core,dadras,19,0.13744769990444183,1.0
+frozen_core_shell,Frozen-core,dadras,2,0.3290373682975769,1.0
+frozen_core_shell,Frozen-core,dadras,20,0.1857408732175827,1.0
+frozen_core_shell,Frozen-core,dadras,3,0.40612906217575073,1.0
+frozen_core_shell,Frozen-core,dadras,4,0.47318118810653687,1.0
+frozen_core_shell,Frozen-core,dadras,5,0.5325025320053101,1.0
+frozen_core_shell,Frozen-core,dadras,6,0.3969714045524597,1.0
+frozen_core_shell,Frozen-core,dadras,7,0.42611223459243774,1.0
+frozen_core_shell,Frozen-core,dadras,8,1.2100661993026733,1.0
+frozen_core_shell,Frozen-core,dadras,9,0.5776407122612,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,1,1.1913096904754639,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,10,0.7664456367492676,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,11,0.487854540348053,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,12,0.4375341534614563,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,13,0.4012199640274048,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,14,0.7212588787078857,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,15,0.26995694637298584,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,16,0.4947066009044647,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,17,0.4631502032279968,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,18,0.4738689959049225,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,19,0.8436986804008484,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,2,0.23501384258270264,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,20,0.8084355592727661,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,3,0.6759077906608582,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,4,0.39451155066490173,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,5,0.4926489591598511,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,6,0.6264997124671936,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,7,0.16689161956310272,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,8,0.9177995920181274,1.0
+frozen_core_shell,Frozen-core,genesio_tesi,9,0.41009438037872314,1.0
+frozen_core_shell,Frozen-core,hadley,1,1.8376730680465698,1.0
+frozen_core_shell,Frozen-core,hadley,10,0.697336733341217,1.0
+frozen_core_shell,Frozen-core,hadley,11,1.2511059045791626,1.0
+frozen_core_shell,Frozen-core,hadley,12,1.0350017547607422,1.0
+frozen_core_shell,Frozen-core,hadley,13,1.0117223262786865,1.0
+frozen_core_shell,Frozen-core,hadley,14,0.43980610370635986,1.0
+frozen_core_shell,Frozen-core,hadley,15,0.3580573797225952,1.0
+frozen_core_shell,Frozen-core,hadley,16,1.0964566469192505,1.0
+frozen_core_shell,Frozen-core,hadley,17,0.5113783478736877,1.0
+frozen_core_shell,Frozen-core,hadley,18,0.5295958518981934,1.0
+frozen_core_shell,Frozen-core,hadley,19,1.2022426128387451,1.0
+frozen_core_shell,Frozen-core,hadley,2,0.4471641182899475,1.0
+frozen_core_shell,Frozen-core,hadley,20,0.5066872835159302,1.0
+frozen_core_shell,Frozen-core,hadley,3,1.2709180116653442,1.0
+frozen_core_shell,Frozen-core,hadley,4,0.9470871686935425,1.0
+frozen_core_shell,Frozen-core,hadley,5,0.7850903272628784,1.0
+frozen_core_shell,Frozen-core,hadley,6,0.4401879608631134,1.0
+frozen_core_shell,Frozen-core,hadley,7,1.016815185546875,1.0
+frozen_core_shell,Frozen-core,hadley,8,0.8974127769470215,1.0
+frozen_core_shell,Frozen-core,hadley,9,0.4982275366783142,1.0
+frozen_core_shell,Frozen-core,halvorsen,1,0.07764749974012375,1.0
+frozen_core_shell,Frozen-core,halvorsen,10,0.1472329944372177,1.0
+frozen_core_shell,Frozen-core,halvorsen,11,0.0015007100300863385,1.0
+frozen_core_shell,Frozen-core,halvorsen,12,0.1767536997795105,1.0
+frozen_core_shell,Frozen-core,halvorsen,13,0.12635040283203125,1.0
+frozen_core_shell,Frozen-core,halvorsen,14,0.08732651174068451,1.0
+frozen_core_shell,Frozen-core,halvorsen,15,0.05973852798342705,1.0
+frozen_core_shell,Frozen-core,halvorsen,16,0.057288892567157745,1.0
+frozen_core_shell,Frozen-core,halvorsen,17,0.08807937800884247,1.0
+frozen_core_shell,Frozen-core,halvorsen,18,0.10164540261030197,1.0
+frozen_core_shell,Frozen-core,halvorsen,19,0.11655570566654205,1.0
+frozen_core_shell,Frozen-core,halvorsen,2,0.10443029552698135,1.0
+frozen_core_shell,Frozen-core,halvorsen,20,0.016922248527407646,1.0
+frozen_core_shell,Frozen-core,halvorsen,3,0.07422078400850296,1.0
+frozen_core_shell,Frozen-core,halvorsen,4,0.10877949744462967,1.0
+frozen_core_shell,Frozen-core,halvorsen,5,0.24698308110237122,1.0
+frozen_core_shell,Frozen-core,halvorsen,6,0.06304629147052765,1.0
+frozen_core_shell,Frozen-core,halvorsen,7,0.12266421318054199,1.0
+frozen_core_shell,Frozen-core,halvorsen,8,0.0689895898103714,1.0
+frozen_core_shell,Frozen-core,halvorsen,9,0.1746279001235962,1.0
+frozen_core_shell,Frozen-core,lorenz63,1,0.08709333091974258,1.0
+frozen_core_shell,Frozen-core,lorenz63,10,-0.004965213127434254,1.0
+frozen_core_shell,Frozen-core,lorenz63,11,0.048661354929208755,1.0
+frozen_core_shell,Frozen-core,lorenz63,12,0.14937430620193481,1.0
+frozen_core_shell,Frozen-core,lorenz63,13,0.18954722583293915,1.0
+frozen_core_shell,Frozen-core,lorenz63,14,0.07653408497571945,1.0
+frozen_core_shell,Frozen-core,lorenz63,15,0.015470570884644985,1.0
+frozen_core_shell,Frozen-core,lorenz63,16,0.13073012232780457,1.0
+frozen_core_shell,Frozen-core,lorenz63,17,0.030609911307692528,1.0
+frozen_core_shell,Frozen-core,lorenz63,18,0.14482653141021729,1.0
+frozen_core_shell,Frozen-core,lorenz63,19,0.06284181028604507,1.0
+frozen_core_shell,Frozen-core,lorenz63,2,0.10547072440385818,1.0
+frozen_core_shell,Frozen-core,lorenz63,20,0.10268930345773697,1.0
+frozen_core_shell,Frozen-core,lorenz63,3,0.08374442160129547,1.0
+frozen_core_shell,Frozen-core,lorenz63,4,0.18951348960399628,1.0
+frozen_core_shell,Frozen-core,lorenz63,5,0.6646169424057007,1.0
+frozen_core_shell,Frozen-core,lorenz63,6,0.36136454343795776,1.0
+frozen_core_shell,Frozen-core,lorenz63,7,0.04191320762038231,1.0
+frozen_core_shell,Frozen-core,lorenz63,8,0.13416695594787598,1.0
+frozen_core_shell,Frozen-core,lorenz63,9,0.1104731634259224,1.0
+frozen_core_shell,Frozen-core,nose_hoover,1,2.7524452209472656,1.0
+frozen_core_shell,Frozen-core,nose_hoover,10,4.066105842590332,1.0
+frozen_core_shell,Frozen-core,nose_hoover,11,3.7168052196502686,1.0
+frozen_core_shell,Frozen-core,nose_hoover,12,3.6567208766937256,1.0
+frozen_core_shell,Frozen-core,nose_hoover,13,1.9208307266235352,1.0
+frozen_core_shell,Frozen-core,nose_hoover,14,2.288048267364502,1.0
+frozen_core_shell,Frozen-core,nose_hoover,15,6.047119617462158,1.0
+frozen_core_shell,Frozen-core,nose_hoover,16,4.022629737854004,1.0
+frozen_core_shell,Frozen-core,nose_hoover,17,1.9153660535812378,1.0
+frozen_core_shell,Frozen-core,nose_hoover,18,5.261232852935791,1.0
+frozen_core_shell,Frozen-core,nose_hoover,19,3.2283501625061035,1.0
+frozen_core_shell,Frozen-core,nose_hoover,2,3.415381669998169,1.0
+frozen_core_shell,Frozen-core,nose_hoover,20,3.688133955001831,1.0
+frozen_core_shell,Frozen-core,nose_hoover,3,2.088001012802124,1.0
+frozen_core_shell,Frozen-core,nose_hoover,4,4.132866859436035,1.0
+frozen_core_shell,Frozen-core,nose_hoover,5,4.404343605041504,1.0
+frozen_core_shell,Frozen-core,nose_hoover,6,2.226318836212158,1.0
+frozen_core_shell,Frozen-core,nose_hoover,7,3.7053585052490234,1.0
+frozen_core_shell,Frozen-core,nose_hoover,8,8.34877872467041,1.0
+frozen_core_shell,Frozen-core,nose_hoover,9,4.354247093200684,1.0
+frozen_core_shell,Frozen-core,qi_chen,1,0.07474849373102188,1.0
+frozen_core_shell,Frozen-core,qi_chen,10,0.0744941309094429,1.0
+frozen_core_shell,Frozen-core,qi_chen,11,0.029068419709801674,1.0
+frozen_core_shell,Frozen-core,qi_chen,12,0.02315739542245865,1.0
+frozen_core_shell,Frozen-core,qi_chen,13,0.04774000123143196,1.0
+frozen_core_shell,Frozen-core,qi_chen,14,0.07449962198734283,1.0
+frozen_core_shell,Frozen-core,qi_chen,15,0.05198550969362259,1.0
+frozen_core_shell,Frozen-core,qi_chen,16,0.03222079202532768,1.0
+frozen_core_shell,Frozen-core,qi_chen,17,-0.004215755499899387,1.0
+frozen_core_shell,Frozen-core,qi_chen,18,0.48028868436813354,1.0
+frozen_core_shell,Frozen-core,qi_chen,19,-0.013925188221037388,1.0
+frozen_core_shell,Frozen-core,qi_chen,2,0.045997437089681625,1.0
+frozen_core_shell,Frozen-core,qi_chen,20,0.013769076205790043,1.0
+frozen_core_shell,Frozen-core,qi_chen,3,-0.03828736022114754,1.0
+frozen_core_shell,Frozen-core,qi_chen,4,0.03736692667007446,1.0
+frozen_core_shell,Frozen-core,qi_chen,5,0.07041467726230621,1.0
+frozen_core_shell,Frozen-core,qi_chen,6,0.01943967491388321,1.0
+frozen_core_shell,Frozen-core,qi_chen,7,-0.0906754806637764,1.0
+frozen_core_shell,Frozen-core,qi_chen,8,-0.09758602827787399,1.0
+frozen_core_shell,Frozen-core,qi_chen,9,0.018643219023942947,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,1,0.7257869243621826,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,10,0.7580033540725708,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,11,0.4544065594673157,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,12,0.6149231195449829,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,13,0.753544270992279,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,14,0.596520721912384,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,15,0.866685688495636,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,16,0.4589577615261078,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,17,0.7921767234802246,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,18,0.8657597899436951,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,19,0.5241541266441345,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,2,0.5228608250617981,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,20,0.6572184562683105,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,3,0.7841912508010864,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,4,0.46067288517951965,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,5,0.5533676743507385,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,6,0.9075489640235901,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,7,0.607077956199646,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,8,0.8301892280578613,1.0
+frozen_core_shell,Frozen-core,rabinovich_fabrikant,9,0.6356077194213867,1.0
+frozen_core_shell,Frozen-core,sprott_b,1,0.5636293292045593,1.0
+frozen_core_shell,Frozen-core,sprott_b,10,0.10926513373851776,1.0
+frozen_core_shell,Frozen-core,sprott_b,11,0.1596304029226303,1.0
+frozen_core_shell,Frozen-core,sprott_b,12,-0.1182195395231247,1.0
+frozen_core_shell,Frozen-core,sprott_b,13,0.18434685468673706,1.0
+frozen_core_shell,Frozen-core,sprott_b,14,0.05380995199084282,1.0
+frozen_core_shell,Frozen-core,sprott_b,15,0.6465354561805725,1.0
+frozen_core_shell,Frozen-core,sprott_b,16,0.050999704748392105,1.0
+frozen_core_shell,Frozen-core,sprott_b,17,0.49868685007095337,1.0
+frozen_core_shell,Frozen-core,sprott_b,18,0.2782589793205261,1.0
+frozen_core_shell,Frozen-core,sprott_b,19,0.20389293134212494,1.0
+frozen_core_shell,Frozen-core,sprott_b,2,0.04094497486948967,1.0
+frozen_core_shell,Frozen-core,sprott_b,20,0.010234946385025978,1.0
+frozen_core_shell,Frozen-core,sprott_b,3,0.18341577053070068,1.0
+frozen_core_shell,Frozen-core,sprott_b,4,0.02943042479455471,1.0
+frozen_core_shell,Frozen-core,sprott_b,5,0.14639413356781006,1.0
+frozen_core_shell,Frozen-core,sprott_b,6,0.041581492871046066,1.0
+frozen_core_shell,Frozen-core,sprott_b,7,0.14373467862606049,1.0
+frozen_core_shell,Frozen-core,sprott_b,8,0.26939377188682556,1.0
+frozen_core_shell,Frozen-core,sprott_b,9,0.10954169929027557,1.0
+open_loop_tied,Open-loop tied,aizawa,1,0.47302669286727905,1.2276470879132129
+open_loop_tied,Open-loop tied,aizawa,10,1.146865725517273,1.4811580696363011
+open_loop_tied,Open-loop tied,aizawa,11,0.6855176687240601,1.4553361313369535
+open_loop_tied,Open-loop tied,aizawa,12,0.5396233797073364,0.9545597227953289
+open_loop_tied,Open-loop tied,aizawa,13,0.8516303300857544,1.579241324383903
+open_loop_tied,Open-loop tied,aizawa,14,1.2950867414474487,1.0756779939996095
+open_loop_tied,Open-loop tied,aizawa,15,1.6348646879196167,1.400417952813085
+open_loop_tied,Open-loop tied,aizawa,16,0.7421518564224243,1.3304397513956192
+open_loop_tied,Open-loop tied,aizawa,17,1.2908542156219482,2.5670341119204347
+open_loop_tied,Open-loop tied,aizawa,18,0.7183701992034912,1.340123601782871
+open_loop_tied,Open-loop tied,aizawa,19,0.4705559015274048,1.2472678171385385
+open_loop_tied,Open-loop tied,aizawa,2,0.8446215391159058,1.0005904159920982
+open_loop_tied,Open-loop tied,aizawa,20,0.4356018602848053,1.0306590156826856
+open_loop_tied,Open-loop tied,aizawa,3,0.40087419748306274,1.1706840584549492
+open_loop_tied,Open-loop tied,aizawa,4,0.4145461916923523,1.0972016070842918
+open_loop_tied,Open-loop tied,aizawa,5,0.5603769421577454,0.9813807028834179
+open_loop_tied,Open-loop tied,aizawa,6,0.5973358750343323,1.0306979978951336
+open_loop_tied,Open-loop tied,aizawa,7,0.641021192073822,0.9973512105594933
+open_loop_tied,Open-loop tied,aizawa,8,0.6122342348098755,1.1388484300632329
+open_loop_tied,Open-loop tied,aizawa,9,0.5452691912651062,0.9513670265603196
+open_loop_tied,Open-loop tied,burke_shaw,1,0.2893242835998535,1.0249428609819562
+open_loop_tied,Open-loop tied,burke_shaw,10,0.22311881184577942,2.7480482692631734
+open_loop_tied,Open-loop tied,burke_shaw,11,0.5412058234214783,1.4357442673190361
+open_loop_tied,Open-loop tied,burke_shaw,12,0.28647589683532715,1.3179177198395653
+open_loop_tied,Open-loop tied,burke_shaw,13,0.6707618236541748,1.6526454570902382
+open_loop_tied,Open-loop tied,burke_shaw,14,1.0468223094940186,1.7155206107178471
+open_loop_tied,Open-loop tied,burke_shaw,15,0.8746354579925537,2.573679596273412
+open_loop_tied,Open-loop tied,burke_shaw,16,0.46278589963912964,1.5632813626011743
+open_loop_tied,Open-loop tied,burke_shaw,17,0.3075767457485199,1.6510461036610249
+open_loop_tied,Open-loop tied,burke_shaw,18,0.3024025857448578,1.2004615695697538
+open_loop_tied,Open-loop tied,burke_shaw,19,0.8985401391983032,0.8935041928596461
+open_loop_tied,Open-loop tied,burke_shaw,2,0.05695142596960068,1.478389482943045
+open_loop_tied,Open-loop tied,burke_shaw,20,0.27454251050949097,2.297776014636274
+open_loop_tied,Open-loop tied,burke_shaw,3,0.3339516520500183,1.1114378236478277
+open_loop_tied,Open-loop tied,burke_shaw,4,0.0921071320772171,1.3219165934020616
+open_loop_tied,Open-loop tied,burke_shaw,5,0.1334373652935028,0.9934638971201476
+open_loop_tied,Open-loop tied,burke_shaw,6,0.12389405816793442,1.3504447417021836
+open_loop_tied,Open-loop tied,burke_shaw,7,0.6966943144798279,1.2641765453855405
+open_loop_tied,Open-loop tied,burke_shaw,8,0.06659147143363953,1.1107999558706172
+open_loop_tied,Open-loop tied,burke_shaw,9,0.6555543541908264,1.1811205520510581
+open_loop_tied,Open-loop tied,chen,1,0.8137770295143127,1.8256248124091388
+open_loop_tied,Open-loop tied,chen,10,0.8152475953102112,2.8731533435916936
+open_loop_tied,Open-loop tied,chen,11,0.8961707949638367,1.777139401570167
+open_loop_tied,Open-loop tied,chen,12,0.3430975377559662,3.1418798284970286
+open_loop_tied,Open-loop tied,chen,13,0.6942038536071777,2.7895212635542737
+open_loop_tied,Open-loop tied,chen,14,0.7597959041595459,1.9118593106805173
+open_loop_tied,Open-loop tied,chen,15,0.8565223813056946,2.4467833092292124
+open_loop_tied,Open-loop tied,chen,16,0.5745850205421448,2.495278560144661
+open_loop_tied,Open-loop tied,chen,17,1.5233168601989746,1.5376303945974164
+open_loop_tied,Open-loop tied,chen,18,1.440316081047058,1.0010153369271462
+open_loop_tied,Open-loop tied,chen,19,0.4887223541736603,1.4910892408999563
+open_loop_tied,Open-loop tied,chen,2,1.0744229555130005,1.4585152253963178
+open_loop_tied,Open-loop tied,chen,20,1.0964773893356323,1.4809876330357674
+open_loop_tied,Open-loop tied,chen,3,0.578280508518219,1.135995831083557
+open_loop_tied,Open-loop tied,chen,4,0.5727647542953491,1.6648311791079458
+open_loop_tied,Open-loop tied,chen,5,0.6288649439811707,2.794868113367124
+open_loop_tied,Open-loop tied,chen,6,0.6227996349334717,1.820242085888439
+open_loop_tied,Open-loop tied,chen,7,0.7879056334495544,1.8665495910569692
+open_loop_tied,Open-loop tied,chen,8,0.8266254663467407,2.941936503668649
+open_loop_tied,Open-loop tied,chen,9,0.9349571466445923,1.5475353928611855
+open_loop_tied,Open-loop tied,chua,1,0.41853371262550354,1.6171741396534547
+open_loop_tied,Open-loop tied,chua,10,0.2979387640953064,1.3550143432874908
+open_loop_tied,Open-loop tied,chua,11,0.14732912182807922,0.8292729389803705
+open_loop_tied,Open-loop tied,chua,12,0.23781199753284454,1.244991590620845
+open_loop_tied,Open-loop tied,chua,13,0.20087674260139465,0.9624156713983664
+open_loop_tied,Open-loop tied,chua,14,0.4143161475658417,1.111443660009136
+open_loop_tied,Open-loop tied,chua,15,0.31959375739097595,1.9656178383360643
+open_loop_tied,Open-loop tied,chua,16,0.24113087356090546,0.8397171118997911
+open_loop_tied,Open-loop tied,chua,17,0.32181140780448914,1.4131929465528148
+open_loop_tied,Open-loop tied,chua,18,0.15673762559890747,1.9761047973326602
+open_loop_tied,Open-loop tied,chua,19,0.15403933823108673,1.7137119811469685
+open_loop_tied,Open-loop tied,chua,2,0.17552989721298218,1.7413581663181295
+open_loop_tied,Open-loop tied,chua,20,0.2344656139612198,1.0148135614895317
+open_loop_tied,Open-loop tied,chua,3,0.23105290532112122,1.2430799031268476
+open_loop_tied,Open-loop tied,chua,4,0.35441842675209045,1.0900102044038027
+open_loop_tied,Open-loop tied,chua,5,0.6984026432037354,2.071526436432288
+open_loop_tied,Open-loop tied,chua,6,0.2732561528682709,1.5603519836441564
+open_loop_tied,Open-loop tied,chua,7,0.31132107973098755,1.078414566715356
+open_loop_tied,Open-loop tied,chua,8,0.1520693600177765,0.9883738599818437
+open_loop_tied,Open-loop tied,chua,9,0.35788241028785706,1.9658966513394422
+open_loop_tied,Open-loop tied,dadras,10,0.6777603030204773,0.7207715773865283
+open_loop_tied,Open-loop tied,dadras,11,0.9966907501220703,1.4122812248700847
+open_loop_tied,Open-loop tied,dadras,13,1.0594819784164429,1.5390126521154621
+open_loop_tied,Open-loop tied,dadras,14,1.610000491142273,0.5633041809741868
+open_loop_tied,Open-loop tied,dadras,15,0.40720057487487793,0.7617532173540557
+open_loop_tied,Open-loop tied,dadras,16,0.1911666840314865,2.8825829468418163
+open_loop_tied,Open-loop tied,dadras,18,0.851624608039856,2.773064438881408
+open_loop_tied,Open-loop tied,dadras,19,0.910262405872345,3.0799995005421796
+open_loop_tied,Open-loop tied,dadras,2,0.9647812247276306,1.527906212205802
+open_loop_tied,Open-loop tied,dadras,20,0.3695859909057617,0.6988131029507656
+open_loop_tied,Open-loop tied,dadras,3,0.725033164024353,1.8062530698721793
+open_loop_tied,Open-loop tied,dadras,4,0.8069793581962585,1.6506983125062746
+open_loop_tied,Open-loop tied,dadras,5,1.0864205360412598,1.0754043238856532
+open_loop_tied,Open-loop tied,dadras,6,0.8327875733375549,3.067272086278281
+open_loop_tied,Open-loop tied,dadras,7,0.7405989766120911,1.3126916625154967
+open_loop_tied,Open-loop tied,dadras,8,1.4361313581466675,1.0210692556298988
+open_loop_tied,Open-loop tied,dadras,9,0.8750924468040466,1.8747144429051237
+open_loop_tied,Open-loop tied,genesio_tesi,1,0.906253457069397,0.9996567709235455
+open_loop_tied,Open-loop tied,genesio_tesi,10,0.8880904912948608,1.095411527843524
+open_loop_tied,Open-loop tied,genesio_tesi,11,0.42915964126586914,1.0002220956092973
+open_loop_tied,Open-loop tied,genesio_tesi,12,0.3370921313762665,1.1370605043442084
+open_loop_tied,Open-loop tied,genesio_tesi,13,0.4265928864479065,1.024726474506485
+open_loop_tied,Open-loop tied,genesio_tesi,14,0.6879072189331055,1.0020801365975458
+open_loop_tied,Open-loop tied,genesio_tesi,15,0.39488306641578674,1.0542618011711842
+open_loop_tied,Open-loop tied,genesio_tesi,16,0.47863438725471497,0.9997134423193723
+open_loop_tied,Open-loop tied,genesio_tesi,17,0.277195006608963,1.0144392876253359
+open_loop_tied,Open-loop tied,genesio_tesi,18,0.4356028139591217,1.4724070104744527
+open_loop_tied,Open-loop tied,genesio_tesi,19,0.6427859663963318,0.9937934591819488
+open_loop_tied,Open-loop tied,genesio_tesi,2,0.1523614525794983,0.9471504044313283
+open_loop_tied,Open-loop tied,genesio_tesi,20,0.8125422596931458,0.9045702203916468
+open_loop_tied,Open-loop tied,genesio_tesi,3,0.5640175938606262,0.972067324071269
+open_loop_tied,Open-loop tied,genesio_tesi,4,0.37177562713623047,1.2325054643187425
+open_loop_tied,Open-loop tied,genesio_tesi,5,0.45701876282691956,0.9489483252223383
+open_loop_tied,Open-loop tied,genesio_tesi,6,0.6274621486663818,0.9634049711001016
+open_loop_tied,Open-loop tied,genesio_tesi,7,0.15957921743392944,0.8367154779137714
+open_loop_tied,Open-loop tied,genesio_tesi,8,0.8225888609886169,1.0082201215100972
+open_loop_tied,Open-loop tied,genesio_tesi,9,0.33816006779670715,0.920935526316008
+open_loop_tied,Open-loop tied,hadley,1,2.462123155593872,1.136341852792992
+open_loop_tied,Open-loop tied,hadley,10,0.9010459780693054,1.155342230200585
+open_loop_tied,Open-loop tied,hadley,11,1.9747260808944702,1.1785629248962366
+open_loop_tied,Open-loop tied,hadley,12,1.3455464839935303,1.2709408822214674
+open_loop_tied,Open-loop tied,hadley,13,1.4010756015777588,1.5584031181312432
+open_loop_tied,Open-loop tied,hadley,14,0.6665781736373901,1.005545283868038
+open_loop_tied,Open-loop tied,hadley,15,0.8023629784584045,1.5780515250158689
+open_loop_tied,Open-loop tied,hadley,16,1.752335548400879,1.2161128833013264
+open_loop_tied,Open-loop tied,hadley,17,0.794804036617279,1.2321573072945684
+open_loop_tied,Open-loop tied,hadley,18,0.9473750591278076,1.2406006762994333
+open_loop_tied,Open-loop tied,hadley,19,1.6964201927185059,0.9696693032525854
+open_loop_tied,Open-loop tied,hadley,2,0.847623884677887,1.368809518667525
+open_loop_tied,Open-loop tied,hadley,20,0.7507464289665222,0.7912632683945252
+open_loop_tied,Open-loop tied,hadley,3,2.1843996047973633,1.3424530586089496
+open_loop_tied,Open-loop tied,hadley,4,1.4914696216583252,1.1917804324620802
+open_loop_tied,Open-loop tied,hadley,5,1.0427342653274536,1.34352461593387
+open_loop_tied,Open-loop tied,hadley,6,0.5693823099136353,1.0388532104275947
+open_loop_tied,Open-loop tied,hadley,7,1.6283999681472778,1.9708904455009941
+open_loop_tied,Open-loop tied,hadley,8,1.365358591079712,1.3305982839297663
+open_loop_tied,Open-loop tied,hadley,9,0.9404489994049072,1.3116275572817737
+open_loop_tied,Open-loop tied,halvorsen,1,0.42580074071884155,1.5200750874100186
+open_loop_tied,Open-loop tied,halvorsen,10,0.4811131954193115,2.2616295128045056
+open_loop_tied,Open-loop tied,halvorsen,11,0.36867988109588623,1.8806818385404664
+open_loop_tied,Open-loop tied,halvorsen,12,0.6567350029945374,1.1643177558806102
+open_loop_tied,Open-loop tied,halvorsen,13,0.3903711438179016,1.7502377316036224
+open_loop_tied,Open-loop tied,halvorsen,14,0.34551891684532166,1.740545442796398
+open_loop_tied,Open-loop tied,halvorsen,15,0.3621821105480194,1.941208693395576
+open_loop_tied,Open-loop tied,halvorsen,16,0.3456282615661621,1.594641501442889
+open_loop_tied,Open-loop tied,halvorsen,17,0.5837318897247314,1.4162215052535452
+open_loop_tied,Open-loop tied,halvorsen,18,0.4716561734676361,1.6300252579044927
+open_loop_tied,Open-loop tied,halvorsen,19,0.4151792526245117,1.35523427495143
+open_loop_tied,Open-loop tied,halvorsen,2,0.5076171159744263,1.3486356106671762
+open_loop_tied,Open-loop tied,halvorsen,20,0.622501790523529,2.3584714791245576
+open_loop_tied,Open-loop tied,halvorsen,3,0.39876610040664673,1.5172718503104978
+open_loop_tied,Open-loop tied,halvorsen,4,0.35455894470214844,1.276827806812353
+open_loop_tied,Open-loop tied,halvorsen,5,0.42914581298828125,1.2168041710526574
+open_loop_tied,Open-loop tied,halvorsen,6,0.29562416672706604,1.330135065281932
+open_loop_tied,Open-loop tied,halvorsen,7,0.40804770588874817,1.5762864923551034
+open_loop_tied,Open-loop tied,halvorsen,8,0.3923611044883728,1.5206667814338641
+open_loop_tied,Open-loop tied,halvorsen,9,0.4771136939525604,2.3473340624875494
+open_loop_tied,Open-loop tied,lorenz63,1,0.3271717131137848,0.9396498502367165
+open_loop_tied,Open-loop tied,lorenz63,10,0.4138944149017334,2.201337598948008
+open_loop_tied,Open-loop tied,lorenz63,11,0.4366072416305542,1.9177637065974174
+open_loop_tied,Open-loop tied,lorenz63,12,0.6856058835983276,0.8154686769632836
+open_loop_tied,Open-loop tied,lorenz63,13,0.5198657512664795,1.0760024194648092
+open_loop_tied,Open-loop tied,lorenz63,14,0.46637970209121704,2.696263175731588
+open_loop_tied,Open-loop tied,lorenz63,15,0.4233754873275757,1.2089875832807184
+open_loop_tied,Open-loop tied,lorenz63,16,0.36773061752319336,0.6471449876119466
+open_loop_tied,Open-loop tied,lorenz63,17,0.36294007301330566,2.1532401828998657
+open_loop_tied,Open-loop tied,lorenz63,18,0.5892846584320068,2.169626634096127
+open_loop_tied,Open-loop tied,lorenz63,19,0.4697973132133484,2.1849714835369354
+open_loop_tied,Open-loop tied,lorenz63,2,0.43373820185661316,2.0785565431360533
+open_loop_tied,Open-loop tied,lorenz63,20,0.6321802735328674,2.652043787923097
+open_loop_tied,Open-loop tied,lorenz63,3,0.4997089207172394,2.1114038437311287
+open_loop_tied,Open-loop tied,lorenz63,4,0.47790735960006714,0.8211003397440017
+open_loop_tied,Open-loop tied,lorenz63,5,1.1023104190826416,1.3658681871139082
+open_loop_tied,Open-loop tied,lorenz63,6,0.6699657440185547,1.9841757364330037
+open_loop_tied,Open-loop tied,lorenz63,7,0.5223749279975891,1.8911043987735314
+open_loop_tied,Open-loop tied,lorenz63,8,0.5287977457046509,1.6067275887121255
+open_loop_tied,Open-loop tied,lorenz63,9,0.47715795040130615,0.6839057960158575
+open_loop_tied,Open-loop tied,nose_hoover,1,2.5210695266723633,0.9776917143386724
+open_loop_tied,Open-loop tied,nose_hoover,10,4.193195819854736,1.0002897274847786
+open_loop_tied,Open-loop tied,nose_hoover,11,2.8589026927948,1.0294745166974608
+open_loop_tied,Open-loop tied,nose_hoover,12,3.254606008529663,0.9062480522435715
+open_loop_tied,Open-loop tied,nose_hoover,13,1.8796420097351074,0.9792598584686472
+open_loop_tied,Open-loop tied,nose_hoover,14,2.1672134399414062,1.001964361037932
+open_loop_tied,Open-loop tied,nose_hoover,15,4.971598148345947,0.9904393383294976
+open_loop_tied,Open-loop tied,nose_hoover,16,3.0466835498809814,0.9268340773218772
+open_loop_tied,Open-loop tied,nose_hoover,17,1.98968505859375,1.0014340200731784
+open_loop_tied,Open-loop tied,nose_hoover,18,3.1611242294311523,0.7608414450514601
+open_loop_tied,Open-loop tied,nose_hoover,19,2.9081034660339355,1.0011418918464894
+open_loop_tied,Open-loop tied,nose_hoover,2,2.7321383953094482,0.9696688359495664
+open_loop_tied,Open-loop tied,nose_hoover,20,2.732185125350952,0.8812531589369124
+open_loop_tied,Open-loop tied,nose_hoover,3,1.9133437871932983,0.8448427884558493
+open_loop_tied,Open-loop tied,nose_hoover,4,3.685788631439209,1.0000191898615516
+open_loop_tied,Open-loop tied,nose_hoover,5,4.366522789001465,1.0120257527637098
+open_loop_tied,Open-loop tied,nose_hoover,6,1.8689695596694946,0.9479242288499466
+open_loop_tied,Open-loop tied,nose_hoover,7,2.515803098678589,0.9339694129485976
+open_loop_tied,Open-loop tied,nose_hoover,8,6.069332599639893,0.9872672368440009
+open_loop_tied,Open-loop tied,nose_hoover,9,3.3488006591796875,1.0002326496698395
+open_loop_tied,Open-loop tied,qi_chen,1,0.6865026950836182,1.665483911505562
+open_loop_tied,Open-loop tied,qi_chen,10,0.7084953188896179,1.8196887482200685
+open_loop_tied,Open-loop tied,qi_chen,11,0.5633779168128967,0.776130718351758
+open_loop_tied,Open-loop tied,qi_chen,12,0.8432178497314453,1.3732076577367613
+open_loop_tied,Open-loop tied,qi_chen,13,0.5460678935050964,0.8877952385045853
+open_loop_tied,Open-loop tied,qi_chen,14,0.4404429495334625,1.4823353425469783
+open_loop_tied,Open-loop tied,qi_chen,15,0.521648645401001,1.5385603090657543
+open_loop_tied,Open-loop tied,qi_chen,16,0.61793452501297,1.625881040697929
+open_loop_tied,Open-loop tied,qi_chen,17,0.4621613025665283,1.4040379756780617
+open_loop_tied,Open-loop tied,qi_chen,18,1.142918348312378,2.1622649677796906
+open_loop_tied,Open-loop tied,qi_chen,19,0.5034576654434204,1.1146579175231268
+open_loop_tied,Open-loop tied,qi_chen,2,0.6931378245353699,2.074893243786623
+open_loop_tied,Open-loop tied,qi_chen,20,0.4592987895011902,3.1085574566146215
+open_loop_tied,Open-loop tied,qi_chen,3,0.7783053517341614,2.5896165419491393
+open_loop_tied,Open-loop tied,qi_chen,4,0.6185522079467773,2.2786864938572613
+open_loop_tied,Open-loop tied,qi_chen,5,0.6216533780097961,1.3452707621200584
+open_loop_tied,Open-loop tied,qi_chen,6,0.40885186195373535,2.6231236458122584
+open_loop_tied,Open-loop tied,qi_chen,7,0.36904555559158325,1.5317850802239508
+open_loop_tied,Open-loop tied,qi_chen,8,0.342007577419281,2.944041001968157
+open_loop_tied,Open-loop tied,qi_chen,9,0.35988783836364746,1.2039614445063394
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,1,0.691463828086853,0.8919745696034941
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,10,0.6480377316474915,0.7776472057056718
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,11,0.37146371603012085,1.170471100587499
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,12,0.6281485557556152,0.9595556294550492
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,13,0.8675909638404846,0.7123877805268016
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,14,0.39711618423461914,0.7019406066883137
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,15,0.6148533821105957,0.7618983837755787
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,16,0.461834579706192,1.0337865978591514
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,17,0.6476174592971802,1.0071251813631825
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,18,0.669739842414856,0.6723429562060904
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,19,0.5219323635101318,0.738117119120989
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,2,0.4091697037220001,0.9511163419601818
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,20,0.5535512566566467,0.8383845003515787
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,3,0.8663330078125,0.987322138976374
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,4,0.5028167366981506,1.2240615424748549
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,5,0.44395509362220764,0.8713884302565835
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,6,0.7381457686424255,0.8551475065638531
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,7,0.5812077522277832,0.9666425523851685
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,8,0.7782478928565979,1.0241256735484476
+open_loop_tied,Open-loop tied,rabinovich_fabrikant,9,0.8560696244239807,1.010850316461452
+open_loop_tied,Open-loop tied,sprott_b,1,0.6363234519958496,0.99096971276016
+open_loop_tied,Open-loop tied,sprott_b,10,0.11656617373228073,1.0001719453217737
+open_loop_tied,Open-loop tied,sprott_b,11,0.4552326798439026,0.9857102855032405
+open_loop_tied,Open-loop tied,sprott_b,12,0.1076086089015007,1.7286830353723408
+open_loop_tied,Open-loop tied,sprott_b,13,0.2507820129394531,1.0041964163190662
+open_loop_tied,Open-loop tied,sprott_b,14,0.169168159365654,1.473499516213395
+open_loop_tied,Open-loop tied,sprott_b,15,0.7758373618125916,1.2670887414700294
+open_loop_tied,Open-loop tied,sprott_b,16,0.3244118392467499,1.2221355048646643
+open_loop_tied,Open-loop tied,sprott_b,17,0.5569233298301697,0.9545446116176075
+open_loop_tied,Open-loop tied,sprott_b,18,0.48632773756980896,1.0247518025872493
+open_loop_tied,Open-loop tied,sprott_b,19,0.459716260433197,0.5616007832734469
+open_loop_tied,Open-loop tied,sprott_b,2,0.456412136554718,2.01661661946103
+open_loop_tied,Open-loop tied,sprott_b,20,0.22373391687870026,1.3340496718722983
+open_loop_tied,Open-loop tied,sprott_b,3,0.3732948899269104,1.0335868897132519
+open_loop_tied,Open-loop tied,sprott_b,4,0.19966228306293488,1.5588879697859674
+open_loop_tied,Open-loop tied,sprott_b,5,0.28813081979751587,1.3275713731903236
+open_loop_tied,Open-loop tied,sprott_b,6,0.08607126772403717,0.8464185205228881
+open_loop_tied,Open-loop tied,sprott_b,7,0.5214635133743286,1.3959866126643679
+open_loop_tied,Open-loop tied,sprott_b,8,0.36840787529945374,0.9925408636665931
+open_loop_tied,Open-loop tied,sprott_b,9,0.23611965775489807,2.5674647250456295
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,1,0.19480328261852264,0.9568717776928257
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,10,0.27813947200775146,1.0306851457256885
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,11,0.22322618961334229,0.9875560446000121
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,12,0.2839721143245697,1.0275399320024978
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,13,0.29442957043647766,1.298114402864517
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,14,0.26987817883491516,1.0234346990684577
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,15,0.2720586359500885,1.0294616385235578
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,16,0.2897138297557831,0.9766954906746735
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,17,0.3050604462623596,1.0009337007657302
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,18,0.4464411437511444,1.078274650597695
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,19,0.28237998485565186,1.0354606517527383
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,2,0.6784643530845642,0.9928381671448866
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,20,0.30130624771118164,0.9910421025246753
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,3,0.19268028438091278,1.1501209459691957
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,4,0.3094203770160675,1.0141328653423383
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,5,0.3501870334148407,0.9360513762543875
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,6,0.42578452825546265,0.9910604674659874
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,7,0.32299673557281494,1.0574266796805205
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,8,0.3161291182041168,0.9414495371158553
+kaffee_dynamix,KAFFEE-DynaMix,aizawa,9,0.3361293375492096,0.9682435782099589
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,1,0.22512374818325043,0.9616104582407605
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,10,-0.04878807067871094,1.1878478986795522
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,11,0.47464579343795776,1.1004674536417
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,12,0.051584891974925995,1.2161743161658132
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,13,0.3191065192222595,1.066861544194018
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,14,0.9966366291046143,0.8563134286185062
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,15,0.7985020875930786,1.092180773983349
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,16,0.10609474778175354,0.8434208041835801
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,17,0.10497923940420151,0.849378624639426
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,18,0.1351328343153,1.080003486102982
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,19,0.9246367812156677,0.9916529487939516
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,2,-0.03711256757378578,1.0627319095046823
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,20,0.2029097080230713,1.2860816263169534
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,3,0.194661483168602,1.1032743598644974
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,4,-0.0377575159072876,1.1694936957004736
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,5,0.08259053528308868,1.1060869861586293
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,6,0.02091958373785019,0.5347667190866128
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,7,0.49776899814605713,0.8798853284214726
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,8,-0.01874603144824505,0.8641339377555723
+kaffee_dynamix,KAFFEE-DynaMix,burke_shaw,9,0.4472946524620056,1.158863257454343
+kaffee_dynamix,KAFFEE-DynaMix,chen,1,0.2745533585548401,1.1134802605932677
+kaffee_dynamix,KAFFEE-DynaMix,chen,10,0.1330394446849823,1.6998610811855321
+kaffee_dynamix,KAFFEE-DynaMix,chen,11,0.4223688244819641,1.0912689234610091
+kaffee_dynamix,KAFFEE-DynaMix,chen,12,0.10545677691698074,1.1186280503383343
+kaffee_dynamix,KAFFEE-DynaMix,chen,13,0.3187817931175232,1.6363463862562553
+kaffee_dynamix,KAFFEE-DynaMix,chen,14,0.23685520887374878,1.2123362941197036
+kaffee_dynamix,KAFFEE-DynaMix,chen,15,0.3758232295513153,0.9907293308629015
+kaffee_dynamix,KAFFEE-DynaMix,chen,16,0.11012247204780579,1.039257269712578
+kaffee_dynamix,KAFFEE-DynaMix,chen,17,0.7144282460212708,0.7661247623390033
+kaffee_dynamix,KAFFEE-DynaMix,chen,18,0.9827407002449036,1.0005901918882243
+kaffee_dynamix,KAFFEE-DynaMix,chen,19,0.04900078475475311,2.3743384158636296
+kaffee_dynamix,KAFFEE-DynaMix,chen,2,0.3333004117012024,1.0609946729559918
+kaffee_dynamix,KAFFEE-DynaMix,chen,20,0.3942134380340576,0.7772454279568668
+kaffee_dynamix,KAFFEE-DynaMix,chen,3,0.2827858030796051,1.0549144067362712
+kaffee_dynamix,KAFFEE-DynaMix,chen,4,0.090256467461586,0.9602962449422012
+kaffee_dynamix,KAFFEE-DynaMix,chen,5,0.2429746687412262,1.3893172210900442
+kaffee_dynamix,KAFFEE-DynaMix,chen,6,0.0864424929022789,1.0623863424184217
+kaffee_dynamix,KAFFEE-DynaMix,chen,7,0.3323570191860199,0.9335199983723499
+kaffee_dynamix,KAFFEE-DynaMix,chen,8,0.14768625795841217,1.2663154422126233
+kaffee_dynamix,KAFFEE-DynaMix,chen,9,0.3920550048351288,1.1708658774508844
+kaffee_dynamix,KAFFEE-DynaMix,chua,1,-0.1944582164287567,0.589503783835744
+kaffee_dynamix,KAFFEE-DynaMix,chua,10,-0.17190241813659668,0.46878784143921753
+kaffee_dynamix,KAFFEE-DynaMix,chua,11,-0.137051522731781,0.4933164491652217
+kaffee_dynamix,KAFFEE-DynaMix,chua,12,-0.14029502868652344,0.6657047524236953
+kaffee_dynamix,KAFFEE-DynaMix,chua,13,-0.06524445861577988,0.510703422641008
+kaffee_dynamix,KAFFEE-DynaMix,chua,14,-0.039835408329963684,0.8659448810147322
+kaffee_dynamix,KAFFEE-DynaMix,chua,15,-0.12140064686536789,0.7577585443853545
+kaffee_dynamix,KAFFEE-DynaMix,chua,16,-0.19310522079467773,0.46983198905779683
+kaffee_dynamix,KAFFEE-DynaMix,chua,17,-0.03446066752076149,0.6925672011914216
+kaffee_dynamix,KAFFEE-DynaMix,chua,18,-0.16167908906936646,0.6547851882930947
+kaffee_dynamix,KAFFEE-DynaMix,chua,19,-0.06473339349031448,0.8258641764752782
+kaffee_dynamix,KAFFEE-DynaMix,chua,2,-0.1608598530292511,0.8766905678601122
+kaffee_dynamix,KAFFEE-DynaMix,chua,20,-0.11018617451190948,0.6733550063211327
+kaffee_dynamix,KAFFEE-DynaMix,chua,3,-0.13397008180618286,0.7240263006959702
+kaffee_dynamix,KAFFEE-DynaMix,chua,4,-0.15906746685504913,0.39707494274266075
+kaffee_dynamix,KAFFEE-DynaMix,chua,5,0.1345806121826172,0.8364526793041462
+kaffee_dynamix,KAFFEE-DynaMix,chua,6,-0.13581383228302002,0.8896933443157489
+kaffee_dynamix,KAFFEE-DynaMix,chua,7,-0.1606624573469162,0.2855428930872983
+kaffee_dynamix,KAFFEE-DynaMix,chua,8,-0.24766677618026733,0.40732719148958246
+kaffee_dynamix,KAFFEE-DynaMix,chua,9,-0.04722726717591286,2.1151596097803136
+kaffee_dynamix,KAFFEE-DynaMix,dadras,10,0.311174213886261,1.0045830321817282
+kaffee_dynamix,KAFFEE-DynaMix,dadras,11,0.6547806859016418,1.044392034732915
+kaffee_dynamix,KAFFEE-DynaMix,dadras,13,0.0963972881436348,1.2946143929763492
+kaffee_dynamix,KAFFEE-DynaMix,dadras,14,0.6763622164726257,0.9943528245518994
+kaffee_dynamix,KAFFEE-DynaMix,dadras,15,0.24159444868564606,1.0398104353185378
+kaffee_dynamix,KAFFEE-DynaMix,dadras,16,-0.04308730736374855,1.3872107796598219
+kaffee_dynamix,KAFFEE-DynaMix,dadras,18,0.35563817620277405,0.8029731077205545
+kaffee_dynamix,KAFFEE-DynaMix,dadras,19,0.031157994642853737,1.0182972208121914
+kaffee_dynamix,KAFFEE-DynaMix,dadras,2,0.18594683706760406,1.4909851176192885
+kaffee_dynamix,KAFFEE-DynaMix,dadras,20,0.03667287528514862,0.7533723970743319
+kaffee_dynamix,KAFFEE-DynaMix,dadras,3,0.15305034816265106,0.8367057213837031
+kaffee_dynamix,KAFFEE-DynaMix,dadras,4,0.33462458848953247,0.6445717908643394
+kaffee_dynamix,KAFFEE-DynaMix,dadras,5,0.3764776587486267,0.6212891323218335
+kaffee_dynamix,KAFFEE-DynaMix,dadras,6,0.25374871492385864,0.8953161639887668
+kaffee_dynamix,KAFFEE-DynaMix,dadras,7,0.2067362666130066,1.6826593782113441
+kaffee_dynamix,KAFFEE-DynaMix,dadras,8,0.8593875169754028,1.039916703204558
+kaffee_dynamix,KAFFEE-DynaMix,dadras,9,0.38940882682800293,1.3618539538302152
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,1,1.0077611207962036,0.998698800567743
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,10,0.7131586074829102,0.9911721648912374
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,11,0.3995165526866913,1.0066929370238238
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,12,0.26059669256210327,1.1724975699888274
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,13,0.24947892129421234,1.0410841936146165
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,14,0.7017704844474792,1.062579558417731
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,15,0.13468332588672638,1.0708663748539546
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,16,0.47748810052871704,0.9688267595596651
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,17,0.283571720123291,1.0238453480303098
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,18,0.3796416223049164,1.0983160620208754
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,19,0.734954833984375,0.997604421242493
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,2,0.07651058584451675,0.9581656586703059
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,20,0.7589853405952454,0.9948491436757915
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,3,0.5913081169128418,1.085875087403313
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,4,0.2955256998538971,1.243862383002457
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,5,0.4271169602870941,0.9559059866035943
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,6,0.6032621264457703,0.9852992861936117
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,7,0.08875726908445358,0.910221750953994
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,8,0.7750028967857361,0.965579607407255
+kaffee_dynamix,KAFFEE-DynaMix,genesio_tesi,9,0.22245781123638153,0.7628395796935147
+kaffee_dynamix,KAFFEE-DynaMix,hadley,1,2.1244301795959473,1.0390682788175707
+kaffee_dynamix,KAFFEE-DynaMix,hadley,10,0.7606802582740784,1.0698439580903059
+kaffee_dynamix,KAFFEE-DynaMix,hadley,11,1.3448858261108398,1.0768289654878094
+kaffee_dynamix,KAFFEE-DynaMix,hadley,12,1.0417424440383911,1.1518151478410315
+kaffee_dynamix,KAFFEE-DynaMix,hadley,13,1.298644781112671,1.0279755408390259
+kaffee_dynamix,KAFFEE-DynaMix,hadley,14,0.3741649091243744,1.1151923798849965
+kaffee_dynamix,KAFFEE-DynaMix,hadley,15,0.31837719678878784,1.138947042290246
+kaffee_dynamix,KAFFEE-DynaMix,hadley,16,1.1431814432144165,0.9997879760165562
+kaffee_dynamix,KAFFEE-DynaMix,hadley,17,0.4998975098133087,1.0754044951714579
+kaffee_dynamix,KAFFEE-DynaMix,hadley,18,0.5117574334144592,1.117191571828963
+kaffee_dynamix,KAFFEE-DynaMix,hadley,19,1.2493486404418945,1.2873711984142884
+kaffee_dynamix,KAFFEE-DynaMix,hadley,2,0.40626829862594604,1.1234564010716945
+kaffee_dynamix,KAFFEE-DynaMix,hadley,20,0.47112569212913513,2.012263304740671
+kaffee_dynamix,KAFFEE-DynaMix,hadley,3,1.412667989730835,1.0095942595931593
+kaffee_dynamix,KAFFEE-DynaMix,hadley,4,0.8973752856254578,0.9629716531313669
+kaffee_dynamix,KAFFEE-DynaMix,hadley,5,0.8598523139953613,2.31727022735485
+kaffee_dynamix,KAFFEE-DynaMix,hadley,6,0.4977107644081116,1.0603145506314933
+kaffee_dynamix,KAFFEE-DynaMix,hadley,7,1.035826325416565,1.025023414051936
+kaffee_dynamix,KAFFEE-DynaMix,hadley,8,0.9125708937644958,0.8187798288595162
+kaffee_dynamix,KAFFEE-DynaMix,hadley,9,0.46206778287887573,1.1482230368555617
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,1,-0.0038111861795186996,0.8499902642392622
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,10,0.053626615554094315,0.960619942668941
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,11,-0.05408778786659241,0.8888084518197785
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,12,0.13399796187877655,0.9440622449171796
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,13,0.004479984752833843,1.1357847255554427
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,14,0.03526545315980911,1.1953679249428344
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,15,-0.018199417740106583,1.0290077642702615
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,16,-0.0025096426252275705,1.0573454747850153
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,17,-0.0006693488103337586,0.906553564572369
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,18,0.017729032784700394,1.0039410938880051
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,19,0.013198924250900745,0.9937377998679661
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,2,0.007261150050908327,0.9151928142607971
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,20,-0.03703661635518074,0.9923872894950316
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,3,0.02209073305130005,1.0319386474367485
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,4,0.011625129729509354,1.0132778737104664
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,5,0.148025780916214,0.8965906383608415
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,6,-0.025226520374417305,0.8926662783303205
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,7,-0.00037143967347219586,1.002212176142017
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,8,-0.02094406820833683,0.8551506995342416
+kaffee_dynamix,KAFFEE-DynaMix,halvorsen,9,0.072170190513134,0.9763227624492355
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,1,0.003235897049307823,0.47828550236267403
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,10,-0.024121271446347237,0.9571212779032735
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,11,-0.030900128185749054,0.9846243469451563
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,12,0.037495244294404984,0.7363636858775058
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,13,0.13731218874454498,0.7713905708223957
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,14,0.06124553829431534,0.8056403776193014
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,15,-0.03358810767531395,1.1887406543001398
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,16,0.034635990858078,1.0486853940896659
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,17,-0.03798961266875267,0.765060336503949
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,18,0.09297775477170944,1.226123734937596
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,19,-0.019971733912825584,1.1005831993005666
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,2,0.06736468523740768,1.020563656703354
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,20,0.016163194552063942,0.7967785165093131
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,3,0.01035903301090002,0.9731724329194563
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,4,0.11957190930843353,0.48984513099406946
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,5,0.48283815383911133,0.8374939650139513
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,6,0.2308419793844223,1.0069678141353398
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,7,-0.02346176840364933,0.8484747365668538
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,8,0.04448891803622246,0.9569086235529034
+kaffee_dynamix,KAFFEE-DynaMix,lorenz63,9,0.031055426225066185,0.38485499722012184
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,1,2.2279348373413086,0.9477418775338755
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,10,3.785876989364624,0.9955119451940341
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,11,2.5726022720336914,0.976028347666998
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,12,2.7804341316223145,0.9055952217314361
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,13,1.5714852809906006,0.9523369733024777
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,14,2.197834014892578,0.9929547013585548
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,15,5.136174201965332,1.0028256078228177
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,16,3.419650077819824,0.983506279995212
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,17,1.6717631816864014,0.9833286595844465
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,18,3.346299886703491,1.0059450722911216
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,19,2.8257176876068115,1.0062329974406676
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,2,2.600038766860962,1.0203050445880013
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,20,2.860316753387451,0.941408803865245
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,3,1.4608149528503418,0.8369222845598101
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,4,3.5808589458465576,1.003002956088058
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,5,3.9982590675354004,0.9989539883290891
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,6,1.6216785907745361,0.9390817028071176
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,7,2.969146966934204,0.9231253484405447
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,8,7.042277812957764,0.9861905427350618
+kaffee_dynamix,KAFFEE-DynaMix,nose_hoover,9,3.448009490966797,1.0001772761756915
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,1,0.03128543868660927,1.5967457833788445
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,10,-0.002759448019787669,0.9641934149890964
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,11,-0.03792417049407959,0.9469152694715978
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,12,-0.0664234310388565,1.2070737440703687
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,13,-0.03637758642435074,1.213638417649797
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,14,0.036826007068157196,1.1356991637500942
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,15,0.006596847902983427,0.9667191252840663
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,16,0.008235035464167595,0.9371595140563515
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,17,-0.044243499636650085,1.0321999776873743
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,18,0.4759998321533203,0.8448718572424455
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,19,-0.062367793172597885,1.1475656016227453
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,2,-0.016927778720855713,1.1947983142967245
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,20,-0.04009353742003441,1.1886070402122764
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,3,-0.11075399816036224,1.0414303899839739
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,4,-0.039732061326503754,1.040562649334975
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,5,0.0251539908349514,0.817385466270359
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,6,-0.04030860960483551,0.9582786475688403
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,7,-0.0940556600689888,1.0025273115129587
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,8,-0.15177056193351746,0.9249604007673
+kaffee_dynamix,KAFFEE-DynaMix,qi_chen,9,-0.027259571477770805,1.1065641740834227
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,1,0.6033295392990112,0.7923100432361817
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,10,0.4466986060142517,0.7686498060902692
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,11,0.36617371439933777,1.042011805091502
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,12,0.4799608290195465,0.9161139253181132
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,13,0.6839039325714111,0.9457391309596372
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,14,0.3617591857910156,0.7414899541636555
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,15,0.41749608516693115,0.8662040448567735
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,16,0.5088173747062683,1.07726381300188
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,17,0.7904691696166992,0.8867962906588615
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,18,0.5281534194946289,0.6756046007635025
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,19,0.36032480001449585,0.9108784261966874
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,2,0.3922482132911682,0.8470350159554608
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,20,0.43764135241508484,0.8959926926036238
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,3,0.5298265814781189,0.8773506503099568
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,4,0.35913169384002686,1.9041323970764483
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,5,0.4484807550907135,1.228057170108949
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,6,0.740933358669281,0.8212881116901004
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,7,0.4885234236717224,0.7737536498983115
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,8,0.6878306865692139,1.0095080976198068
+kaffee_dynamix,KAFFEE-DynaMix,rabinovich_fabrikant,9,0.4717106223106384,0.9140703546939201
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,1,0.4774079918861389,1.0110023354033415
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,10,0.07967084646224976,1.0034796807007866
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,11,0.08466210216283798,1.002568519538425
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,12,-0.1411411315202713,1.306133444476118
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,13,0.1263660341501236,1.0014939626178367
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,14,0.028278065845370293,1.4272935744481527
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,15,0.5737093091011047,1.2735460252239397
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,16,-0.018884407356381416,1.0607141367704234
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,17,0.47092297673225403,0.9463903882545391
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,18,0.23945863544940948,1.0026484198494419
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,19,0.16757367551326752,0.5060386356593619
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,2,0.013743561692535877,0.8214566412555816
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,20,-0.03283875808119774,1.0691065376208062
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,3,0.10453256964683533,1.0952619267744506
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,4,-0.0384499654173851,1.053217030914864
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,5,0.10481732338666916,0.974004512600167
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,6,-0.01646282710134983,0.9978235301432516
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,7,0.11075595021247864,1.26090197591642
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,8,0.20216694474220276,1.000741197235547
+kaffee_dynamix,KAFFEE-DynaMix,sprott_b,9,0.05637487396597862,1.1108867722730456

@@ -1,0 +1,8 @@
+{
+  "reassim_rollout_npz": "figures/figures_inputs/lorenz96_main_figure/reassim/reassim_rollout_seed00_launch16320_H50_stride024.npz",
+  "reassim_rollout": {
+    "dim": 0,
+    "stride": 24,
+    "dt": 0.04
+  }
+}
